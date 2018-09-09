@@ -1,7 +1,7 @@
 # Site settings
 title: Alex Pardus
-email: your-email@domain.com
-url: https://example.github.io
+email: awpardus@gmail.com
+url: https://apardus.github.io/Portfolio/
 description: Mechanical Engineering Design Portfolio
 keywords: CAD, Solidworks, Autodesk, Inventor, Fusion 360, CFD, FEA, DOE, 3D printing
 skills: "Web Developer - Graphic Artist - User Experience Designer"
@@ -32,8 +32,8 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: Alex Pardus
+  location: Jamestown, RI
   social: Around the Web
   credits: Credits
 
