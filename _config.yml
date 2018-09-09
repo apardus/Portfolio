@@ -130,7 +130,7 @@ social:
   - title: twitter
     url: http://twitter.com/jekyllrb
   - title: facebook
-    url: https://www.facebook.com/apardus
+    url:
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket
